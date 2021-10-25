@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/CJXstart/cjxstart.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 我自己的学习博客
+人生之路并不平坦，对于前端开发的学习，我将记录在此，见证我由一个小白到入门的过程，路漫漫其修远兮，吾将上下而求索。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
